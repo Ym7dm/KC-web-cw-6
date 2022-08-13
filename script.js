@@ -15,4 +15,4 @@ if (grade >= 90 && grade <= 100) {
 } else if (grade < 50) {
   console.log("%cراسب", "color : red");
 }
-// جافاسكربت ليست جافااسب
+// جافاسكربت ليست جافا
